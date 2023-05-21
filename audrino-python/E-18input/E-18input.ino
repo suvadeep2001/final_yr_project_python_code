@@ -57,7 +57,7 @@ void loop()
   if (L == 0)
   {
     Serial.println(1);
-    delay(10000);    
+    delay(2000);    
     status =  Serial.readString();
     if (status == "verified")
     {
