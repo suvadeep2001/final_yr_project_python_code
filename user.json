@@ -1,0 +1,35 @@
+[
+    {
+      "car_number": "ABC123",
+      "name": "Shraman Chakrabarty",
+      "email": "shramanchakrabarty112@gmail.com",
+      "phone_number": "+918910076401",
+      "aadhar_card": "123456789012",
+      "country": "India",
+      "state": "West Bengal",
+      "pin_number": "12345",
+      "image": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+      "car_number": "HR.26 BR.9044",
+      "name": "Suvadeep Maity",
+      "email": "suvadeepmaity2001@gmail.com",
+      "phone_number": "+918001618512",
+      "aadhar_card": "987654321098",
+      "country": "India",
+      "state": "West Bengal",
+      "pin_number": "54321",
+      "image": "https://images.unsplash.com/photo-1581382575275-97901c2635b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "car_number": "5842 GK",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone_number": "0987654321",
+      "aadhar_card": "987654321098",
+      "country": "USA",
+      "state": "New York",
+      "pin_number": "54321",
+      "image": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    }
+  ]
